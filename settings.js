@@ -31,7 +31,9 @@ global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
+global.btnurl = '🙂🔥Group link😎https://chat.whatsapp.com/ItrKKR6Ppkq6hTTscBlxpg
+ 
+😑' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
@@ -53,7 +55,7 @@ global.mess = { // Error Mesages
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: 🎭'රැදී සිටින්න...🎭
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
